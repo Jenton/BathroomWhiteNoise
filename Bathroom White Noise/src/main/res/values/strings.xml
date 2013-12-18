@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bathroom White Noise Generator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="all_switch">Sound On/Off</string>
+    <string name="fan_switch">Fan</string>
+    <string name="flush_switch">Flush</string>
+    <string name="faucet_switch">Faucet</string>
+    <string name="hand_dryer_switch">Hand Air Dryer</string>
+    <string name="hand_wash_combo_switch">Hand Wash and Dryer Sequence</string>
+    <string name="paper_towels_switch">Paper Towels</string>
+    <string name="volume_seekBar">Volume</string>
+
+</resources>
